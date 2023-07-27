@@ -11,7 +11,9 @@ To run the Guestbook App locally, follow these steps:
 
 - Clone this repository:
 
-  `git clone https://github.com/BrayanDH/Movie-Reviews-Database`
+  ```
+  git clone https://github.com/BrayanDH/Movie-Reviews-Database.git
+  ```
 
 - Navigate to the project directory and run `index.html`
 
