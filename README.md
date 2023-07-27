@@ -1,4 +1,5 @@
-#Serverless Guestbook App
+# Serverless Guestbook App
+
 This project is a Guestbook App developed using vainilla js. The main objective of this project is to provide users with a simple and interactive platform to leave their comments and messages in a guestbook and implement serverless endpoints funtions.
 
 # Features
@@ -19,6 +20,7 @@ To run the Guestbook App locally, follow these steps:
 The Guestbook App utilizes the following dependencies:
 
 AJAX
+BOOTSTRAP
 IBM CLOUD FUNCTIONS
 
 Contributing
