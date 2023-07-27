@@ -19,9 +19,10 @@ To run the Guestbook App locally, follow these steps:
 
 The Guestbook App utilizes the following dependencies:
 
-AJAX
-BOOTSTRAP
-IBM CLOUD FUNCTIONS
+- AJAX
+- BOOTSTRAP
+- IBM CLOUD FUNCTIONS
+- IBM CLOUDANT
 
 Contributing
 Contributions to the Guestbook App are welcome! Feel free to open issues or submit pull requests.
